@@ -1,0 +1,7 @@
+[submodule "themes/clotho"]
+	path = themes/clotho
+	url = https://github.com/genshinh/hugo-theme-clotho.git
+[submodule "public"]
+	path = public
+	url = https://github.com/genshinh/genshinh.github.io.git
+	branch = master
