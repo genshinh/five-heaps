@@ -18,7 +18,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  commentoEnable = true
   favicon = ""
   description = ""
   facebook = ""
@@ -35,3 +34,9 @@ enableRobotsTXT = true
   background_color_class = "bg-dark-gray"
   featured_image = ""
   recent_posts_number = 2
+
+[params.utterances]
+  isEnabled = true
+  issueTerm= "pathname"
+  repo = "genshinh/five-heaps-metadata"
+  theme = "github-light"
